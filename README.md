@@ -23,10 +23,12 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-App Icon
+#### App Icon
+
 <img src='https://i.imgur.com/v2LWv8a.png' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-Launch Screen
+#### Launch Screen
+
 <img src='https://i.imgur.com/rB6lB0G.png' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
@@ -36,11 +38,4 @@ User Experiences             |  Walkthroughs
 :-------------------------:|:-------------------------:
 ![](https://i.imgur.com/8CorlqH.gif)  |  ![](https://i.imgur.com/n3fev8F.gif)
 ![](https://i.imgur.com/azvKspq.gif)  |  ![](https://i.imgur.com/ZfKI1BP.gif)
-
-
-<img src='https://i.imgur.com/8CorlqH.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/n3fev8F.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/azvKspq.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/ZfKI1BP.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
 
