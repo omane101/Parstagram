@@ -8,24 +8,27 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User can view comments on a post. (3pts)
-- [ ] User can add a new comment. (5pts)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can log out. (1pt)
+- [x] User can view comments on a post. (3pts)
+- [x] User can add a new comment. (5pts)
 
 The following **bonus** features are implemented:
 
 - [ ] User can add a profile picture. (2pts)
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Video Walkthrough Part 2
 
 
-## Video Walkthroughn Part 2
+User Experiences             |  Walkthroughs
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/Sw9wGWH.gif)  |  ![](https://i.imgur.com/tggcYLE.gif)
+![](https://i.imgur.com/6SWyTGx.gif)  |  ![](https://i.imgur.com/tJquiGK.gif)
+![](https://i.imgur.com/tJquiGK.gif)  |  ![](https://i.imgur.com/tJquiGK.gif)
+![](https://i.imgur.com/Kf7QxE6.gif)  |  ![](https://i.imgur.com/Sw9wGWH.gif)
+
+## Video Walkthroughn Part 1
 
 Here's a walkthrough of implemented user stories:
 
