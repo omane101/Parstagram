@@ -25,8 +25,7 @@ User Experiences             |  Walkthroughs
 :-------------------------:|:-------------------------:
 ![](https://i.imgur.com/Sw9wGWH.gif)  |  ![](https://i.imgur.com/tggcYLE.gif)
 ![](https://i.imgur.com/ei9bSgy.gif) | ![](https://i.imgur.com/tJquiGK.gif)
-![](https://i.imgur.com/6SWyTGx.gif)  |  ![]()
-![](https://i.imgur.com/Kf7QxE6.gif)  |  ![](https://i.imgur.com/Sw9wGWH.gif)
+![](https://i.imgur.com/6SWyTGx.gif)  |  ![](https://i.imgur.com/Kf7QxE6.gif)
 
 ## Video Walkthroughn Part 1
 
